@@ -1,0 +1,24 @@
+# ninja log v6
+43	2535	7547901730671624	tst/CMakeFiles/Integracion_continua_tst.dir/utils_test.cpp.obj	d42d6e9a2a9aaf14
+569	677	7547906219578253	lib/libgmock_main.a	8696bb9114390139
+931	1075	7547911392354543	src/libIntegracion_continua_lib.a	5ab1e317272f4d4
+14	930	7547911383186654	src/CMakeFiles/Integracion_continua_lib.dir/utils.cpp.obj	dda57ab729da57f8
+21	972	7547911383258426	src/CMakeFiles/Integracion_continua_run.dir/utils.cpp.obj	e0ed753f77d6ea8e
+29	569	7547906214176745	lib/libgmock.a	978c994e4ee2b721
+15	1108	7547906214030503	src/CMakeFiles/Integracion_continua_lib.dir/main.cpp.obj	4d4083ed575d6db7
+23	1089	7547906214110922	src/CMakeFiles/Integracion_continua_run.dir/main.cpp.obj	185b63c81275b1b5
+35	2190	7547901730591332	tst/CMakeFiles/Integracion_continua_tst.dir/main.cpp.obj	f3fe4afb5b454353
+59	2294	7547901730834594	lib/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	414cd6f8db368360
+51	2973	7547901730749232	lib/googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj	a842737ed3ec67e8
+17	4413	7547901730415910	lib/googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	314f701f09d3839
+11	12389	7547901730350581	lib/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	1087f3ef7925b30f
+13	3548	7547902812372122	lib/libgtest.a	f829de6d3fde933d
+39	165	7547906214278279	lib/libgtest_main.a	dc7795ad94befb1f
+5	501	7547913611224059	build.ninja	9397ca86e46f6bc
+14	852	7547913658421408	src/CMakeFiles/Integracion_continua_lib.dir/main.cpp.obj	4d4083ed575d6db7
+26	860	7547913658546892	src/CMakeFiles/Integracion_continua_run.dir/main.cpp.obj	185b63c81275b1b5
+32	1038	7547913658607328	src/CMakeFiles/Integracion_continua_run.dir/utils.cpp.obj	e0ed753f77d6ea8e
+20	1051	7547913658486829	src/CMakeFiles/Integracion_continua_lib.dir/utils.cpp.obj	dda57ab729da57f8
+1051	1183	7547913668793001	src/libIntegracion_continua_lib.a	5ab1e317272f4d4
+1038	1227	7547913668666989	src/Integracion_continua_run.exe	3084079f5a492e42
+1183	4747	7547913670113560	tst/Integracion_continua_tst.exe	ec8e864785181cf9
